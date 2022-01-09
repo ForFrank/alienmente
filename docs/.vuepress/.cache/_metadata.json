@@ -1,7 +1,12 @@
 {
-  "hash": "774e0450",
-  "browserHash": "d8daad44",
+  "hash": "20710cee",
+  "browserHash": "157ad1be",
   "optimized": {
+    "element3": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/element3.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/element3/dist/element3-ui.esm-bundler.js",
+      "needsInterop": false
+    },
     "vue": {
       "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/vue.js",
       "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",

@@ -33,8 +33,14 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1641719683000,
+    "contributors": [
+      {
+        "name": "梁振奇",
+        "email": "liangzhenqi@hotmail.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "install.md"
 }
