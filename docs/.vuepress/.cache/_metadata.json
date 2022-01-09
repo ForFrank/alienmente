@@ -1,0 +1,31 @@
+{
+  "hash": "774e0450",
+  "browserHash": "d8daad44",
+  "optimized": {
+    "vue": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/vue.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/vue-router.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/nprogress.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "/Users/liangzhenqi/Documents/project/alienmente/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/liangzhenqi/Documents/project/alienmente/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}
